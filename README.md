@@ -25,12 +25,12 @@ I am a fresher and recent graduate seeking opportunities. Highly motivated IT fr
 **Data Visualization Tools:**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-green) ![Tableau](https://img.shields.io/badge/-Tableau-green) ![Amazon Quicksight](https://img.shields.io/badge/-Amazon%20Quicksight-green)
 
-**Other Tools:**  
+**Other Technical Skills:**  
 ![MS Excel](https://img.shields.io/badge/-MS%20Excel-green) ![Mathematics and Statistics](https://img.shields.io/badge/-Mathematics%20and%20Statistics-green)
 
 ![AWS](https://img.shields.io/badge/-AWS-green) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-green)
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="MS Excel" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="Mathematics and Statistics" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="MS Excel" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="Mathematics and Statistics" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
 
 ---
 
